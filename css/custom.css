@@ -408,6 +408,7 @@ div#category {
   text-shadow: 0 0 2px rgb(46,52,96) !important;
 }
 
+
 /* 闪烁变动颜色连续渐变 */
 #site-name,
 #site-title,
@@ -427,6 +428,15 @@ div#category {
 [data-theme="dark"] #welcome-info {
   background: #212121;
 }
+
+
+
+
+
+
+
+
+
 
 
 
