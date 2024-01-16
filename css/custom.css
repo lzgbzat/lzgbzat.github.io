@@ -4,12 +4,22 @@
   font-display: swap;
   font-weight: lighter;
 } */
-@font-face {
+/*@font-face {
   font-family: ZhuZiAYuanJWD;
   src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);
   font-display: swap;
   font-weight: lighter;
+} */
+@font-face {
+  font-family: 'iconfont';
+  src: url('/fonts/iconfont.eot');
+  src: url('/fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/iconfont.woff2') format('woff2'),
+  url('/fonts/iconfont.woff') format('woff'),
+  url('/fonts/iconfont.ttf') format('truetype'),
+  url('/fonts/iconfont.svg#iconfont') format('svg');
 }
+
 
 div#menus {
   font-family: "ZhuZiAYuanJWD";
