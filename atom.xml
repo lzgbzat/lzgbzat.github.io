@@ -6,7 +6,7 @@
   <link href="https://lzgbzat.io.git/atom.xml" rel="self"/>
   
   <link href="https://lzgbzat.io.git/"/>
-  <updated>2024-01-13T13:19:47.552Z</updated>
+  <updated>2024-01-20T06:50:42.100Z</updated>
   <id>https://lzgbzat.io.git/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 Github Pages 和 Hexo 搭建自己的独立博客</title>
+    <link href="https://lzgbzat.io.git/undefined/ddae.html"/>
+    <id>https://lzgbzat.io.git/undefined/ddae.html</id>
+    <published>2024-01-20T06:47:40.642Z</published>
+    <updated>2024-01-20T06:50:42.100Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>此文章用于研究背景图是否覆盖啦啦啦啦啦啦 </code></pre>]]></content>
+    
+    
+    <summary type="html">记录搭建博客的经历~</summary>
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://lzgbzat.io.git/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>假期幻想</title>

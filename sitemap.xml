@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lzgbzat.io.git/undefined/ddae.html</loc>
+    
+    <lastmod>2024-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzgbzat.io.git/undefined/4f52b9d9.html</loc>
     
     <lastmod>2024-01-13</lastmod>
@@ -66,6 +75,13 @@
   
   <url>
     <loc>https://lzgbzat.io.git/tags/happy-vacation/</loc>
+    <lastmod>2024-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzgbzat.io.git/tags/Hexo/</loc>
     <lastmod>2024-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
