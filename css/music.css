@@ -43,52 +43,54 @@ body:has(#anMusic-page) #footer,
 body:has(#anMusic-page) #nav-music {
     display: none;
 }
-
+/*歌词能放到多低*/
 #anMusic-page .aplayer-body {
     width: 40%;
     height: 75vh;
 }
-
+/*找不到含义*/
 #anMusic-page ol > li:hover {
     background: #ffffff33;
     border-radius: 6px;
 }
+/*歌曲图标大小*/
 #anMusic-page .aplayer-pic {
     float: none;
     width: 180px;
     height: 180px;
-    border-radius: 12px;
+    border-radius: 100px;
     margin: auto;
     left: 0;
     right: 0;
 }
-
+/*找不到含义*/
 #anMusic-page .aplayer-info {
     margin: 0 20px 0 20px;
-    border-bottom: none;
+    border-bottom: 20px;
 }
-
+/*封面名称歌词三者之间的间隔*/
 #anMusic-page .aplayer-info .aplayer-music {
     text-align: center;
     height: auto;
     margin: 15px;
 }
-
+/*标题颜色*/
 #anMusic-page .aplayer-info .aplayer-music .aplayer-author,
 #anMusic-page .aplayer-info .aplayer-music .aplayer-title {
     font-size: 2rem;
     font-weight: 700;
-    color: #fff;
+    color: #BCB5FF;
 }
-
+/*歌曲名称和歌词的间隔*/
 #anMusic-page .aplayer-info .aplayer-lrc {
     height: 800%;
-    margin-top: 80px;
+    margin-top: 25px;
     mask-image: linear-gradient(to bottom, #000, #000, #000, #000, #000, #000, #000, #000, #000, #000, #0000, #0000);
 }
+/*歌词字体大小和颜色*/
 #anMusic-page .aplayer-info .aplayer-lrc p {
-    font-size: 14px;
-    color: #fff;
+    font-size: 15px;
+    color: #FFFFFF;
 }
 #anMusic-page .aplayer .aplayer-lrc:after,
 #anMusic-page .aplayer .aplayer-lrc:before {
@@ -102,18 +104,19 @@ body:has(#anMusic-page) #nav-music {
     margin: auto;
     left: 0;
     right: 0;
-    bottom: 50px;
+    bottom: 20px;
 }
 #anMusic-page .aplayer-info .aplayer-controller .aplayer-bar-wrap {
     margin: 0 160px 0 150px;
 }
 #anMusic-page .aplayer-info .aplayer-controller .aplayer-played {
-    background: var(--anzhiyu-white) !important;
+    background: #BF5CCB !important;
 }
+/*控制器小按钮颜色*/
 #anMusic-page .aplayer-info .aplayer-controller .aplayer-thumb {
     -webkit-transform: none;
     transform: none;
-    background: #fff !important;
+    background: #BF5CCB !important;
 }
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon-back,
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon-forward,
@@ -130,20 +133,21 @@ body:has(#anMusic-page) #nav-music {
     justify-content: flex-end;
 }
 #anMusic-page .aplayer-info .aplayer-time .aplayer-time-inner {
-    margin-right: 18px;
-    margin-top: -8px;
+    margin-right: 10px;
+    margin-top: 20px;
 }
+/*左右暂停健位置*/
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon-back {
     position: absolute;
-    left: 0;
+    left: 20px;
 }
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon-play {
     position: absolute;
-    left: 40px;
+    left: 100px;
 }
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon-forward {
     position: absolute;
-    left: 80px;
+    left: 60px;
 }
 
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon {
@@ -155,32 +159,34 @@ body:has(#anMusic-page) #nav-music {
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon-menu {
     display: none;
 }
-
+/*暂停左右按钮音量啥啥的颜色*/
 #anMusic-page .aplayer-info .aplayer-time .aplayer-icon path {
-    fill: var(--anzhiyu-white);
+    fill: #E5C8EE;
     opacity: 0.8;
 }
-
+/*音乐列表的宽度和显示歌曲的高度以及距离滚动线的距离*/
 #anMusic-page .aplayer-list {
-    width: 60%;
+    width: 300%;
     max-height: none !important;
-    height: 100%;
+    height: 180%;
 }
 #anMusic-page ol {
     max-height: 75vh !important;
     padding-right: 25px;
 }
+/*列表字词大小和歌曲间隔*/
 #anMusic-page ol > li {
-    border-top: 1px solid transparent;
-    font-size: 14px;
+    border-top: 20px solid transparent;
+    font-size: 15px;
 }
+/*正在播放的歌曲框框颜色和大小*/
 #anMusic-page ol > li.aplayer-list-light {
-    background: rgb(255 255 255 / 20%);
-    border-radius: 6px;
+    background: rgb( 71 234 206 / 20%);
+    border-radius: 50px;
 }
-
+/*歌词颜色*/
 #anMusic-page ol > li span {
-    color: var(--anzhiyu-white);
+    color: #D583BD;
 }
 
 #anMusic-page ol > li.aplayer-list-light .aplayer-list-cur {
@@ -196,14 +202,14 @@ body:has(#anMusic-page) #nav-music {
     background: 0 0 !important;
     border-bottom: none !important;
 }
-
+/*进入音乐馆后上面图标字体颜色*/
 .page:has(#anMusic-page) #page-header.not-top-img #nav a,
 .page:has(#anMusic-page) #page-header #nav .back-home-button {
-    color: var(--anzhiyu-white);
+    color: #E5C8EE;
 }
 
 body:has(#anMusic-page) .s-sticker div {
-    color: var(--anzhiyu-white) !important;
+    color: #666666 !important;
 }
 
 body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon.aplayer-icon-loop {

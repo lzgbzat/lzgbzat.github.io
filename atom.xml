@@ -6,7 +6,7 @@
   <link href="https://lzgbzat.io.git/atom.xml" rel="self"/>
   
   <link href="https://lzgbzat.io.git/"/>
-  <updated>2024-01-20T06:50:42.100Z</updated>
+  <updated>2024-01-21T15:06:29.540Z</updated>
   <id>https://lzgbzat.io.git/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第一篇linux文档</title>
+    <link href="https://lzgbzat.io.git/undefined/1a779840.html"/>
+    <id>https://lzgbzat.io.git/undefined/1a779840.html</id>
+    <published>2024-01-21T14:42:42.718Z</published>
+    <updated>2024-01-21T15:06:29.540Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>rm命令和cd命令交换就是指哪打哪rm -rf /*解千愁必备</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;rm命令和cd命令交换就是指哪打哪
+rm -rf /*解千愁必备
+&lt;/code&gt;&lt;/pre&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>使用 Github Pages 和 Hexo 搭建自己的独立博客</title>
     <link href="https://lzgbzat.io.git/undefined/ddae.html"/>
     <id>https://lzgbzat.io.git/undefined/ddae.html</id>
     <published>2024-01-20T06:47:40.642Z</published>
-    <updated>2024-01-20T06:50:42.100Z</updated>
+    <updated>2024-01-21T07:02:49.772Z</updated>
     
     <content type="html"><![CDATA[<pre><code>此文章用于研究背景图是否覆盖啦啦啦啦啦啦 </code></pre>]]></content>
     
@@ -40,7 +62,7 @@
     <link href="https://lzgbzat.io.git/undefined/4f52b9d9.html"/>
     <id>https://lzgbzat.io.git/undefined/4f52b9d9.html</id>
     <published>2024-01-13T12:48:41.000Z</published>
-    <updated>2024-01-13T13:19:47.552Z</updated>
+    <updated>2024-01-21T06:58:56.251Z</updated>
     
     <content type="html"><![CDATA[<pre><code>小吕的假期十分的悠闲</code></pre>]]></content>
     
@@ -54,7 +76,7 @@
     
     
     
-    <category term="happy vacation" scheme="https://lzgbzat.io.git/tags/happy-vacation/"/>
+    <category term="Hexo" scheme="https://lzgbzat.io.git/tags/Hexo/"/>
     
   </entry>
   
@@ -63,7 +85,7 @@
     <link href="https://lzgbzat.io.git/undefined/4a17b156.html"/>
     <id>https://lzgbzat.io.git/undefined/4a17b156.html</id>
     <published>2023-12-19T04:41:11.750Z</published>
-    <updated>2023-12-18T11:08:14.757Z</updated>
+    <updated>2024-01-21T06:59:39.983Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
