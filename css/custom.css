@@ -10,15 +10,6 @@
   font-display: swap;
   font-weight: lighter;
 } */
-@font-face {
-  font-family: 'iconfont';
-  src: url('/fonts/iconfont.eot');
-  src: url('/fonts/iconfont.eot?#iefix') format('embedded-opentype'),
-  url('/fonts/iconfont.woff2') format('woff2'),
-  url('/fonts/iconfont.woff') format('woff'),
-  url('/fonts/iconfont.ttf') format('truetype'),
-  url('/fonts/iconfont.svg#iconfont') format('svg');
-}
 
 
 div#menus {
@@ -61,18 +52,17 @@ svg.icon {
 
 /* bilibli番剧插件 */
 #article-container .bangumi-tab.bangumi-active {
-  background: var(--anzhiyu-theme);
-  color: var(--anzhiyu-ahoverbg);
+  background: #9484B7;
+  color: #9484B7;
   border-radius: 10px;
 }
 a.bangumi-tab:hover {
   text-decoration: none !important;
 }
 .bangumi-button:hover {
-  background: var(--anzhiyu-theme) !important;
+  background: #9484B7 !important;
   border-radius: 10px !important;
-  color: var(--anzhiyu-ahoverbg) !important;
-}
+  color: #9484B7 !important;}
 a.bangumi-button.bangumi-nextpage:hover {
   text-decoration: none !important;
 }
@@ -196,7 +186,7 @@ div#category {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #3b70fc;
+  background-color: #9484B7;
   border-radius: 2em;
 }
 
@@ -206,7 +196,7 @@ div#category {
 
 ::-moz-selection {
   color: #fff;
-  background-color: #3b70fc;
+  background-color: #9484B7;
 }
 
 /* 音乐播放器 */
@@ -290,7 +280,7 @@ div#category {
   height: 100%;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  background-color: #3b70fc;
+  background-color: #9484B7;
   background-position: center;
   background-size: cover;
 }
@@ -316,7 +306,7 @@ div#category {
   display: inline-block;
   margin-top: 0.5rem;
   padding: 0.3rem 1.5rem;
-  background: var(--btn-bg);
+  background: #9484B7;
   color: var(--btn-color);
 }
 
@@ -353,7 +343,7 @@ div#category {
   overflow: hidden;
   width: 230px;
   height: 143px;
-  background: var(--anzhiyu-card-bg);
+  background: #9484B7;
   display: flex;
 }
 
@@ -367,7 +357,7 @@ div#category {
   align-items: flex-end;
   align-content: center;
   padding-top: 0.5rem;
-  color: white;
+  color: #9484B7;
 }
 
 #body-wrap.error .aside-list .aside-list-item .content time {
