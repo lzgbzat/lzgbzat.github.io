@@ -13,21 +13,21 @@
 
 
 div#menus {
-  font-family: "ZhuZiAYuanJWD";
+  font-family: "xiaotaiziti";
 }
 h1#site-title {
-  font-family: ZhuZiAYuanJWD;
-  font-size: 3em !important;
+  font-family: "xiaotaiziti";
+  font-size: 10em !important;
 }
 a.article-title,
 a.blog-slider__title,
 a.categoryBar-list-link,
 h1.post-title {
-  font-family: ZhuZiAYuanJWD;
+  font-family: "xiaotaiziti";
 }
 
 .iconfont {
-  font-family: "iconfont" !important;
+  font-family: "xiaotaiziti" !important;
   font-size: 3em;
   /* 可以定义图标大小 */
   font-style: normal;
@@ -291,7 +291,7 @@ div#category {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
-  font-family: Titillium Web, "PingFang SC", "Hiragino Sans GB", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
+  font-family: "xiaotaiziti";
 }
 #error-wrap .error-content .error-info .error_title {
   margin-top: -4rem;
