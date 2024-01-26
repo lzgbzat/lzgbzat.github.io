@@ -1,7 +1,7 @@
 /* 自定义底部  start */
 #ft {
     max-width: 1200px;
-    margin: 0 auto 10px;
+    margin: 0 auto 15px;
     display: flex;
     color: rgb(255 255 255 / 80%) !important;
     text-align: center;
@@ -33,7 +33,7 @@
     display: flex;
     flex-direction: column;
     flex: 1.4;
-    margin-right: 18px;
+    margin-right: 10px;
 }
 
 .t-top .t-t-l .bg-ad {
