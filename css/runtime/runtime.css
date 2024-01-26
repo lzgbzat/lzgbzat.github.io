@@ -1,7 +1,7 @@
 /*电子钟字体*/
 @font-face {
-    font-family: 'UnidreamLED';
-    src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");
+    font-family: "xiaotaiziti";
+    src: url('https://npm.elemecdn.com/ethan4116-blog/lib/font/ZhuZiAWan.ttf');
     font-display: swap;
 }
 div#runtime {
@@ -11,7 +11,7 @@ div#runtime {
     padding-inline: 5px;
     border-radius: 10px;
     background-color: rgba(0,0,0,0.7);
-    font-family: 'UnidreamLED';
+    font-family: 'xiaotaiziti';
 }
 [data-theme="dark"] div#runtime {
     color: #28b4c8;
@@ -30,7 +30,7 @@ a.github-badge:hover:before {
     text-align: center;
     z-index: 100;
     content: attr(data-title);
-    font-size: 20px;
+    font-size:20px;
     color: #fff;
     padding: 10px;
     background-color: var(--text-bg-hover);
