@@ -16,8 +16,8 @@ function createtime() {
     let currentTimeHtml = "";
     (currentTimeHtml =
         hnum < 18 && hnum >= 9
-            ? `<br> 小站开放了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fa-solid fa-mug-hot' style='color:red'></i>`
-            : `<br> 小站开放了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class=<i class='fa-solid fa-mug-hot' style='color:red'></i>`),
+            ? `<br> 小站开放了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fa-solid fa-mug-hot' style='color:#9484B7'></i>`
+            : `<br> 小站开放了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class=<i class='fa-solid fa-mug-hot' style='color:#9484B7'></i>`),
     document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
 setInterval(() => {
