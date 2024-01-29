@@ -6,7 +6,7 @@
   <link href="https://lzgbzat.io.git/atom.xml" rel="self"/>
   
   <link href="https://lzgbzat.io.git/"/>
-  <updated>2024-01-21T15:06:29.540Z</updated>
+  <updated>2024-01-29T11:10:14.888Z</updated>
   <id>https://lzgbzat.io.git/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux连接CRT</title>
+    <link href="https://lzgbzat.io.git/undefined/fde07dc0.html"/>
+    <id>https://lzgbzat.io.git/undefined/fde07dc0.html</id>
+    <published>2024-01-29T10:52:46.198Z</published>
+    <updated>2024-01-29T11:10:14.888Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用VMware操作虚拟机，总会有一些麻烦的步骤。不如连接CRT，简洁又大方</p><pre><code>打开CRT连接软件，点击文件进行快速连接主机名填虚拟机ip地址用户名填虚拟机的用户名，我这里设置的ydmy点击连接即可，觉得字体太小的话可以再CRT菜单栏中点击选项--会话选项--外观--字体字体小四我觉得正好，在外观下面还有一个字符编码需要调一下，改成UTF-8完成上述操作，就可以正常使用CRT了</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;使用VMware操作虚拟机，总会有一些麻烦的步骤。不如连接CRT，简洁又大方&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;打开CRT连接软件，点击文件进行快速连接
+主机名填虚拟机ip地址
+用户名填虚拟机的用户名，我这里设置的ydmy
+点击连接即可，觉得字体太小的话可以再CRT菜单栏中点击</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>第一篇linux文档</title>
