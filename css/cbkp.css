@@ -1,0 +1,13 @@
+#aside-content > .card-widget.card-info {
+    background: linear-gradient(-45deg,  #23a6d5, #e15b64, #453298);
+    background-size: 400%;
+    box-shadow: #1c1c1c;
+    animation: gradient 15s ease infinite;
+    position: relative;
+    color: #c2cadf;
+}
+.site-data > a .headline,
+.site-data > a .length-num {
+    color: #453298;
+}
+
