@@ -6,7 +6,7 @@
   <link href="http://zw.lzgbzat.io.git/atom.xml" rel="self"/>
   
   <link href="http://zw.lzgbzat.io.git/"/>
-  <updated>2024-01-29T11:10:14.888Z</updated>
+  <updated>2024-04-03T13:26:54.977Z</updated>
   <id>http://zw.lzgbzat.io.git/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zw.lzgbzat.io.git/undefined/fde07dc0.html"/>
     <id>http://zw.lzgbzat.io.git/undefined/fde07dc0.html</id>
     <published>2024-01-29T10:52:46.198Z</published>
-    <updated>2024-01-29T11:10:14.888Z</updated>
+    <updated>2024-04-03T13:26:54.977Z</updated>
     
     <content type="html"><![CDATA[<p>使用VMware操作虚拟机，总会有一些麻烦的步骤。不如连接CRT，简洁又大方</p><pre><code>打开CRT连接软件，点击文件进行快速连接主机名填虚拟机ip地址用户名填虚拟机的用户名，我这里设置的ydmy点击连接即可，觉得字体太小的话可以再CRT菜单栏中点击选项--会话选项--外观--字体字体小四我觉得正好，在外观下面还有一个字符编码需要调一下，改成UTF-8完成上述操作，就可以正常使用CRT了</code></pre>]]></content>
     
@@ -45,7 +45,7 @@
     <link href="http://zw.lzgbzat.io.git/undefined/1a779840.html"/>
     <id>http://zw.lzgbzat.io.git/undefined/1a779840.html</id>
     <published>2024-01-21T14:42:42.718Z</published>
-    <updated>2024-01-21T15:06:29.540Z</updated>
+    <updated>2024-04-03T13:23:18.370Z</updated>
     
     <content type="html"><![CDATA[<pre><code>rm命令和cd命令交换就是指哪打哪rm -rf /*解千愁必备</code></pre>]]></content>
     
@@ -59,48 +59,6 @@ rm -rf /*解千愁必备
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>使用 Github Pages 和 Hexo 搭建自己的独立博客</title>
-    <link href="http://zw.lzgbzat.io.git/undefined/ddae.html"/>
-    <id>http://zw.lzgbzat.io.git/undefined/ddae.html</id>
-    <published>2024-01-20T06:47:40.642Z</published>
-    <updated>2024-01-21T07:02:49.772Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>此文章用于研究背景图是否覆盖啦啦啦啦啦啦 </code></pre>]]></content>
-    
-    
-    <summary type="html">记录搭建博客的经历~</summary>
-    
-    
-    
-    
-    <category term="Hexo" scheme="http://zw.lzgbzat.io.git/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>假期幻想</title>
-    <link href="http://zw.lzgbzat.io.git/undefined/4f52b9d9.html"/>
-    <id>http://zw.lzgbzat.io.git/undefined/4f52b9d9.html</id>
-    <published>2024-01-13T12:48:41.000Z</published>
-    <updated>2024-01-21T06:58:56.251Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>小吕的假期十分的悠闲</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;pre&gt;&lt;code&gt;小吕的假期十分的悠闲
-&lt;/code&gt;&lt;/pre&gt;</summary>
-      
-    
-    
-    
-    
-    <category term="Hexo" scheme="http://zw.lzgbzat.io.git/tags/Hexo/"/>
     
   </entry>
   
