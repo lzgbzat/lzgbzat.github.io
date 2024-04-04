@@ -3,14 +3,14 @@
   <title>咲🦈太麻🐇衣</title>
   
   <subtitle>麻瓜</subtitle>
-  <link href="http://zw.lzgbzat.io.git/atom.xml" rel="self"/>
+  <link href="https://lzgbzat.cn/atom.xml" rel="self"/>
   
-  <link href="http://zw.lzgbzat.io.git/"/>
+  <link href="https://lzgbzat.cn/"/>
   <updated>2024-04-03T15:44:21.462Z</updated>
-  <id>http://zw.lzgbzat.io.git/</id>
+  <id>https://lzgbzat.cn/</id>
   
   <author>
-    <name>咲太</name>
+    <name>Sakuta</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux连接CRT</title>
-    <link href="http://zw.lzgbzat.io.git/undefined/fde07dc0.html"/>
-    <id>http://zw.lzgbzat.io.git/undefined/fde07dc0.html</id>
+    <link href="https://lzgbzat.cn/undefined/fde07dc0.html"/>
+    <id>https://lzgbzat.cn/undefined/fde07dc0.html</id>
     <published>2024-01-29T10:52:46.198Z</published>
     <updated>2024-04-03T15:44:21.462Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>第一篇linux文档</title>
-    <link href="http://zw.lzgbzat.io.git/undefined/1a779840.html"/>
-    <id>http://zw.lzgbzat.io.git/undefined/1a779840.html</id>
+    <link href="https://lzgbzat.cn/undefined/1a779840.html"/>
+    <id>https://lzgbzat.cn/undefined/1a779840.html</id>
     <published>2024-01-21T14:42:42.718Z</published>
     <updated>2024-04-03T15:44:21.492Z</updated>
     
@@ -64,8 +64,8 @@ rm -rf /*解千愁必备
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zw.lzgbzat.io.git/undefined/4a17b156.html"/>
-    <id>http://zw.lzgbzat.io.git/undefined/4a17b156.html</id>
+    <link href="https://lzgbzat.cn/undefined/4a17b156.html"/>
+    <id>https://lzgbzat.cn/undefined/4a17b156.html</id>
     <published>2023-12-19T04:41:11.750Z</published>
     <updated>2024-04-03T15:44:21.472Z</updated>
     
