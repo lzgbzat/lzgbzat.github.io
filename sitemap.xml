@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lzgbzat.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.html</loc>
+    
+    <lastmod>2024-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzgbzat.cn/java/index.html</loc>
     
     <lastmod>2024-04-27</lastmod>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://lzgbzat.cn/</loc>
-    <lastmod>2024-04-27</lastmod>
+    <lastmod>2024-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
